@@ -20,7 +20,7 @@ git clone https://github.com/3PLWinner/resideo-uploads.git
 1. Create and activate a virtual environment:
 ```bash
 python -m venv yourenv
-yourenv/Scripts/activate
+yourenv\Scripts\activate
 ```
 
 2. Install the dependencies:
