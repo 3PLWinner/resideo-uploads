@@ -1,4 +1,5 @@
 # Resideo Upload
+This is the script that interacts with the Veracore Orders API and the Microsoft Graph API to upload orders programmatically.
 
 ## Table of Contents
 
